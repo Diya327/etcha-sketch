@@ -6,6 +6,9 @@ The Etcha-Sketch project is a fun and interactive application that mimics the cl
 ## Project Overview
 In this project, we utilised Tkinter to create a windowed interface where users can manipulate a drawing canvas using mouse events. The application allows for various functionalities such as clearing the canvas, changing colors, and moving four brushes simultaneously to produce mirror art.
 
+## Learning Curve
+This project expanded on my previous project (Snake game) by exploring a more advanced type of GUI. Tkinter allowed for more intricate control of the screen than the turtle library.
+
 ## Key Features
 - **Drawing on Canvas**: Users can use keyboard arrows to create drawings on the canvas.
 - **Screen Selection**: Users can choose different dimensions for their GUI screen size.
